@@ -1,0 +1,26 @@
+[
+  {
+    "place_id": "ChIJdWb1mu8kazYROBBltC8rL1g",
+    "name": "Andok's",
+    "formatted_address": "Quezon Ave, Diliman, Quezon City, Metro Manila",
+    "lat": 14.6506,
+    "lng": 121.0487,
+    "rating": 4.2
+  },
+  {
+    "place_id": "ChIJx6K5mQIlazYRSf2mU8BBtL0",
+    "name": "Mang Inasal",
+    "formatted_address": "J.P. Laurel Ave, Davao City, Davao del Sur",
+    "lat": 7.0742,
+    "lng": 125.6089,
+    "rating": 4.3
+  },
+  {
+    "place_id": "ChIJr7uG5pNBfDQRtpG1t5y8W3s",
+    "name": "Cebuana Lhuillier",
+    "formatted_address": "Osmena Blvd, Cebu City, Cebu",
+    "lat": 10.3157,
+    "lng": 123.8854,
+    "rating": 4.1
+  }
+]
