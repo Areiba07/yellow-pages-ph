@@ -1,0 +1,4 @@
+:root{--pal:#f9b000;}
+.bg-pal{background-color: var(--pal) !important;}
+.btn-pal{background-color: var(--pal); border-color: var(--pal); color:#fff;}
+.text-pal{color: var(--pal);}
