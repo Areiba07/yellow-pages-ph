@@ -1,0 +1,21 @@
+/* Philippine-flag royal blue */
+$primary: #0038A8;
+$secondary: #CE1126;
+$info: #FCD116;
+
+@import "~bootstrap/scss/bootstrap";
+
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #f5f7fa;
+}
+
+.hero-section {
+  background: linear-gradient(135deg, $primary 0%, darken($primary, 10%) 100%);
+}
+
+.map-container {
+  height: 85vh;
+  border-radius: .5rem;
+  overflow: hidden;
+}
