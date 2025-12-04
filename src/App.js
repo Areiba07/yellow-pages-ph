@@ -6,7 +6,7 @@ import Results from './components/Results';
 
 function App() {
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <BrowserRouter basename="/ph-yellowpages-react">
       <Header />
       <Hero />
       <Routes>
